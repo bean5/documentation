@@ -17,7 +17,7 @@ Switch layout
 1. Visit mail settings
 2. Choose between *List*, *Vertical split* and *Horizontal split*
 
-.. figure:: images/mail_layout.png
+.. figure:: ../images/mail_layout.png
 
 Add a new mail account
 ~~~~~~~~~~~~~~~~~~~~~~~
@@ -26,7 +26,7 @@ Add a new mail account
 2. Click the mail icon on the header
 3. Fill up the login form (auto or manual)
 
-.. figure:: images/new-mail-account.png
+.. figure:: ../images/new-mail-account.png
 
 Change sort order
 ~~~~~~~~~~~~~~~~~
