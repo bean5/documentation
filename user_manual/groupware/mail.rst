@@ -92,8 +92,7 @@ Search in mailbox
 ~~~~~~~~~~~~~~~~~
 .. versionadded:: 2.1
 
-At the top of the envelope list in any mail layout, there is a search field shortcut for searching email subjects. Starting from
- .. versionadded:: 3.7, this shortcut allows you to search by subject, recipient (to), or sender (from) by default.
+At the top of the envelope list in any mail layout, there is a search field shortcut for searching email subjects. Starting from ``version 3.7``, this shortcut allows you to search by subject, recipient (to), or sender (from) by default.
 
     .. figure:: images/search-shortcut.png
 
@@ -120,7 +119,7 @@ To enable it:
 
 .. warning:: If you want to also enable it for unified mailboxes you have to do so in Mail settings
 
-By enabling it the main search box will now search in both subjects and mail bodies, and a sperate *Body* option
+By enabling it the main search box will now search in both subjects and mail bodies, and a separate *Body* option
 will appear in advanced search.
 
 Account delegation
