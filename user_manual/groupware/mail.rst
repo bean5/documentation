@@ -94,7 +94,6 @@ Search in mailbox
 
 At the top of the envelope list in any mail layout, there is a search field shortcut for searching email subjects. Starting from ``version 3.7``, this shortcut allows you to search by subject, recipient (to), or sender (from) by default.
 
-    .. figure:: images/search-shortcut.png
 
 Advance search in mailbox
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -102,8 +101,6 @@ Advance search in mailbox
 .. versionadded:: 3.4
 
 You can access our advanced search feature through a modal located at the end of the search shortcut.
-
-    .. figure:: images/search-modal.png
 
 Enable mail body search
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
